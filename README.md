@@ -10,7 +10,7 @@ enhanced the performance by 60%.
 
 
 ## You can check the live here
-[Sketchbook](https://github.com/vercel/next.js/](https://sketchbook-online.vercel.app/)
+[Sketchbook](https://sketchbook-online.vercel.app/)
 
 
 ![image](https://github.com/ajaySankapal/sketchbook/assets/90617524/bbddc9f4-a111-4b2a-84eb-e80429662960)
